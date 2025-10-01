@@ -30,8 +30,6 @@ Le tableau de bord est organisé en plusieurs sections interactives pour une exp
 - **Power BI Desktop** : Pour la conception du tableau de bord, l'intégration des données, la modélisation et la création des visualisations interactives.
 - **DAX (Data Analysis Expressions)** : Pour les calculs complexes et les mesures personnalisées.
 - **Power Query / M Language** : Pour la transformation et le nettoyage des données sources.
-- **[Ajoutez ici la source de vos données, ex: Données agrégées de plateformes d'emploi comme LinkedIn, Indeed, etc. / CSV / SQL Database]** : La source des données utilisées pour alimenter le dashboard.
-
 ## Structure du Projet (dans Power BI)
 
 - **Modèle de Données** : Organisation des tables et des relations pour optimiser les performances et la clarté.
@@ -56,4 +54,5 @@ Pour toute question ou collaboration, n'hésitez pas à me contacter :
 - **Email** : [Votre adresse e-mail, ex: `mohamedelarchaoui766@gmail.com`]
 
 ---
+
 
