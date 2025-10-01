@@ -15,7 +15,7 @@ Le tableau de bord est organisé en plusieurs sections interactives pour une exp
     _ **Analyse salaire vs. poste** : Nuage de points "Hourly vs Median Salary" comparant les salaires horaires médians aux salaires annuels médians par type de poste.
     _ **Statistiques détaillées** : Table "Job Stats" fournissant des chiffres précis (Job Count, Salary Median, Hourly Median, Salary Star Rating) pour chaque titre de poste.
     _ **Filtre interactif** : Un slicer "Job Title" permet de filtrer l'ensemble du dashboard par type de poste.
-    ![Dashboard page 1](/images/Dashboard.png)
+    ![Dashboard page 1](/Images/Dashboard.png)
 2.  **Exploration Détaillée par Poste (`Job Title Drill Through`)** :
     _ Accès via la fonctionnalité "Drill Through" depuis la page "Data Jobs Dashboard" en sélectionnant un titre de poste.
     _ **Statistiques salariales avancées** : Vues détaillées des salaires annuels et horaires pour le poste sélectionné.
@@ -23,7 +23,7 @@ Le tableau de bord est organisé en plusieurs sections interactives pour une exp
     _ **Localisation géographique** : Carte "Jobs Globally" visualisant la répartition mondiale des offres pour le poste sélectionné.
     _ **Plateformes de recrutement** : Bar chart "Job Platform" montrant les canaux les plus utilisés pour la publication des offres.
     _ **Type de contrat** : Bar chart "Job Schedule Type" indiquant la prédominance du temps plein.
-    ![Dashboard page 2](/images/job_drill.png)
+    ![Dashboard page 2](/Images/job_drill.png)
 
 ## Technologies Utilisées
 
@@ -56,3 +56,4 @@ Pour toute question ou collaboration, n'hésitez pas à me contacter :
 - **Email** : [Votre adresse e-mail, ex: `mohamedelarchaoui766@gmail.com`]
 
 ---
+
