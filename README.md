@@ -23,7 +23,7 @@ Le tableau de bord est organisé en plusieurs sections interactives pour une exp
     _ **Localisation géographique** : Carte "Jobs Globally" visualisant la répartition mondiale des offres pour le poste sélectionné.
     _ **Plateformes de recrutement** : Bar chart "Job Platform" montrant les canaux les plus utilisés pour la publication des offres.
     _ **Type de contrat** : Bar chart "Job Schedule Type" indiquant la prédominance du temps plein.
-    ![Dashboard page 1](/images/job_drill.png)
+    ![Dashboard page 2](/images/job_drill.png)
 
 ## Technologies Utilisées
 
